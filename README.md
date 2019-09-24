@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Tutorial 
 
-Read tutorial [Generating New Component - Your First Component](https://vjtechworld.com/2019/09/generating-new-component-using-angular.html) on [VJ Tech Diary](https://vjtechworld.com). 
+Read tutorial [Generating New Component - Your First Component](https://vjtechworld.com/2019/09/generating-new-component-using-angular.html) on [VJ Tech World](https://vjtechworld.com). 
 
 ## Install Dependencies
 
